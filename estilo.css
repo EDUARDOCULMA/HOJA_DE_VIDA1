@@ -1,0 +1,131 @@
+h2{
+    font-family: Verdana;
+    color: #000208;
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+}
+h3{
+    font-family: Verdana;
+    color: #111111;
+}
+
+p{
+    font-family: Verdana;
+    color: #262626;
+    
+    justify-content: start;
+}
+
+li{
+    font-family: Verdana;
+    color: #262626;
+    justify-content: start;
+}
+
+th{
+    font-family: Verdana;
+    color: #111111;
+}
+
+fieldset{
+    border-color: #04D9D9;
+    margin-top: 1em;
+    background-color: #F2F2F2;
+    justify-content: start;
+}
+
+legend{
+    border:2px solid #038C8C;
+    font-family: Verdana;
+    border-radius:8px;
+    font-size: x-small;
+    color: #ddfcfc;
+    background-color: #038C8C;
+    justify-content: start;
+    
+}
+
+#presentacion{
+    
+    float: center;
+    height: 98%;
+    
+}
+
+#contenido { 
+    margin: 10px;
+    width: 47%;
+    float: right;
+}
+
+.col{
+    padding: 0px 10px;
+    margin: 0px 10px;
+}
+
+#idioma{
+    display: flex;
+}
+
+.redes{
+    display: flex;
+    justify-content: left;
+}
+
+.perfil{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 40%;
+}
+
+
+p{
+    margin: 10px 0px;
+    justify-content: start;
+}
+
+    
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+
+#presentacion{
+
+    text-align: center;
+
+}
+
+#datos_personales{ 
+    margin: 10px;
+    width: 47%;
+    float: left;
+}
+#nombre{
+
+    text-align: center;
+}
+.button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.div{
+    justify-content: start;
+}
+body{
+    background-color: #08b61700;
+}
